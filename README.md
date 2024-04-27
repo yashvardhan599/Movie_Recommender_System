@@ -6,7 +6,7 @@ A machine learning-based movie recommender system with a user-friendly web inter
 Step 1: Clone the Repository
 Clone this repository to your local machine using the following command:
 
-git clone https://github.com/your-username/movie-recommender-system.git
+git clone https://github.com/yashvardhan599/Movie_Recommender_System.git
 
 Step 2: Navigate to the Project Folder
 Navigate to the "movie-recommender-system" folder using the command line:
